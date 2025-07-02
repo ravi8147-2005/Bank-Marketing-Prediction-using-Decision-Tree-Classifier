@@ -70,6 +70,7 @@ Contributions and suggestions are welcome! Please open an issue or pull request.
 ---
 📬 Let's Connect!  
 I’m always open to feedback, collaboration, or freelance data science and data analyst projects.
+
 📫 Connect with me on [LinkedIn](www.linkedin.com/in/rudrappakattimani)  
 
 
