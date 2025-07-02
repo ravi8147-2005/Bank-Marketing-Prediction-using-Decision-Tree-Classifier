@@ -42,9 +42,22 @@ This project builds a **Decision Tree Classifier** to predict whether a customer
 
 ---
 
-## 🚀 How to Run This Project
+✅ Output
+📈 Trained Decision Tree model
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/customer-purchase-decision-tree.git
-cd customer-purchase-decision-tree
+📉 Accuracy and classification metrics
+
+🌳 Visualized decision tree (interpretable model)
+
+📄 Citation
+Moro, S., Cortez, P., & Rita, P. (2014). A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems. DOI
+---
+
+📁 customer-purchase-decision-tree/
+├── data/
+│   └── bank-additional-full.csv
+├── decision_tree_classifier.ipynb
+├── decision_tree_classifier.py
+├── requirements.txt
+└── README.md
+
