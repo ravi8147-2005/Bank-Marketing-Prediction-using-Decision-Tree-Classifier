@@ -64,6 +64,7 @@ Deploy as a Streamlit or Flask web app
 
 ---
 🙌 Contributions
+
 Contributions and suggestions are welcome! Please open an issue or pull request.
 
 
