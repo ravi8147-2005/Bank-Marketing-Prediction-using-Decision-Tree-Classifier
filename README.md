@@ -41,12 +41,12 @@ This project builds a **Decision Tree Classifier** to predict whether a customer
 6. Visualize the decision tree structure
 
 ---
-
 ✅ Output
 📈 Trained Decision Tree model
 📉 Accuracy and classification metrics
 🌳 Visualized decision tree (interpretable model)
 
+---
 📄 Citation
 Moro, S., Cortez, P., & Rita, P. (2014). A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems. DOI
 
