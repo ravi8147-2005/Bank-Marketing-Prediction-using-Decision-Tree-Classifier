@@ -51,3 +51,17 @@ This project builds a **Decision Tree Classifier** to predict whether a customer
 Moro, S., Cortez, P., & Rita, P. (2014). A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems. DOI
 ---
 
+🔮 Future Enhancements
+Tune hyperparameters using GridSearchCV
+
+Compare performance with Random Forest, Logistic Regression, etc.
+
+Add SHAP or feature importance explanations
+
+Deploy as a Streamlit or Flask web app
+---
+🙌 Contributions
+Contributions and suggestions are welcome! Please open an issue or pull request.
+
+
+
